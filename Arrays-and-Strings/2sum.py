@@ -53,7 +53,7 @@ print(TwoSum().twoSum(arr, 9))  # Output: [0, 1]
 
 
 arr = [3, 0, 2, -2, -1, 4]
-print(TwoSum().two_pointer(arr, 6))  # Output: [0, 1]
+print(TwoSum().two_pointer(arr, 6))  # Output: [2, 5]
 
 """
 Notes on Time and Space Complexity for Two Sum Problem:
